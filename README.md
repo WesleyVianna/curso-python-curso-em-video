@@ -12,7 +12,7 @@ Esse curso é dividido em 3 mundos, sendo eles:
 
 ## 💪 Exercícios
 
-O curso conta com uma playlist com mais de 100 exercícios para praticar após a aula teórica. Os exercícios estão nas pastas `Desafios`, presentes na pasta de cada Mundo. As anotações e códigos da parte teórica das aulas estão nas pastas `Scripts`, presentes na pasta de cada Mundo.
+O curso conta com uma playlist com mais de 100 exercícios para praticar após a aula teórica. Os exercícios estão nas pastas `Exercícios`, presentes na pasta de cada Mundo. As anotações e códigos da parte teórica das aulas estão nas pastas de `Aulas`, presentes na pasta de cada Mundo.
 
 ### Como baixar o arquivo dos códigos utilizados:
 
